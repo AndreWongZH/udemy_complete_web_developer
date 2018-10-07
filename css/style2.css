@@ -1,0 +1,23 @@
+h2 {
+	color: blue;
+}
+
+p {
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 40px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family: 'K2D', sans-serif;;
+
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
