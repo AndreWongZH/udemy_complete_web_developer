@@ -1,0 +1,25 @@
+body {
+	background: url("header.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+.centraldiv {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+}
+
+.largetext{
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 270px;
+	margin-bottom: 100px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.butt {
+	margin-top: 200px;
+	font-family: 'Open Sans', sans-serif
+}
+
