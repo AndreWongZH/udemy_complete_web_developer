@@ -3,3 +3,5 @@ console.log(welcome);
 
 let bye = "goodbye world";
 console.log(bye);
+
+const add = (a, b) => a + b;
